@@ -1,0 +1,132 @@
+{
+  "product": [
+    {
+      "Pro-id": 1,
+      "pname": "Activa",
+      "price": "40,000",
+      "quantity": 1,
+      "image": "activa.jpeg"
+    },
+    {
+      "Pro-id": 2,
+      "pname": "Bajaj Pulsur",
+      "price": "50,000",
+      "quantity": 1,
+      "image": "ola-s1.png"
+    },
+    {
+      "Pro-id": 3,
+      "pname": "Bajaj Scooter",
+      "price": "60,000",
+      "quantity": 1,
+      "image": "Bajaj scooter.jpg"
+    },
+    {
+      "Pro-id": 4,
+      "pname": "Honda",
+      "price": "50,000",
+      "quantity": 1,
+      "image": "HONDA.jpg"
+    },
+    {
+      "Pro-id": 5,
+      "pname": "Ktm",
+      "price": "80,000",
+      "quantity": 1,
+      "image": "ktm bike.jpg"
+    },
+    {
+      "Pro-id": 6,
+      "pname": "OLA-S1",
+      "price": "50,000",
+      "quantity": 1,
+      "image": "ola-s1.png"
+    },
+    {
+      "Pro-id": 7,
+      "pname": "Royal",
+      "price": "40,000",
+      "quantity": 1,
+      "image": "royal.png"
+    },
+    {
+      "Pro-id": 8,
+      "pname": "Tvs",
+      "price": "40,000",
+      "quantity": 1,
+      "image": "tvs rider.jpg"
+    },
+    {
+      "Pro-id": 9,
+      "pname": "TVS-NTORQ",
+      "price": "40,000",
+      "quantity": 1,
+      "image": "TVS-NTORQ.jpeg"
+    },
+    {
+      "Pro-id": 10,
+      "pname": "Yamaha",
+      "price": "40,000",
+      "quantity": 1,
+      "image": "yamaha scooter.jpg"
+    }
+  ],
+  "Course": [
+    {
+      "id": 1,
+      "cname": "HTML",
+      "Duration": "1-month"
+    },
+    {
+      "id": 2,
+      "cname": "CSS",
+      "Duration": "2-month"
+    },
+    {
+      "id": 3,
+      "cname": "JAVASCRIPT",
+      "Duration": "2-month"
+    },
+    {
+      "id": 4,
+      "cname": "JQUERY",
+      "Duration": "2-month"
+    },
+    {
+      "id": 5,
+      "cname": "BOOTSTRAP",
+      "Duration": "1-month"
+    },
+    {
+      "id": 6,
+      "cname": "REACT",
+      "Duration": "3-month"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "Name": "Madhuri",
+      "Email": "madhu@gmail.com",
+      "MobileNumber": "8079697980",
+      "CourseId": 2,
+      "CourseName": "HTML"
+    },
+    {
+      "Name": "Mahesh",
+      "Email": "mahesh@gmail.com",
+      "MobileNumber": "8010840894",
+      "CourseId": 6,
+      "CourseName": "HTML",
+      "id": 2
+    },
+    {
+      "Name": "Sonali",
+      "Email": "sonali@gmail.com",
+      "MobileNumber": "8010840894",
+      "CourseId": 1,
+      "CourseName": "HTML",
+      "id": 3
+    }
+  ]
+}
